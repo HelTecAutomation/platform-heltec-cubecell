@@ -1,0 +1,27 @@
+{
+  "build": {
+    "arduino": {
+      "lorawan": {
+        "rgb": "DEACTIVE"
+      }
+    },
+    "core": "asr650x",
+    "cpu": "cortex-m0plus",
+    "extra_flags": "-DCubeCell_Module_V2",
+    "f_cpu": "48000000L",
+    "mcu": "asr6501",
+    "variant": "CubeCell-Module-V2"
+  },
+  "frameworks": [
+    "arduino"
+  ],
+  "name": "Heltec CubeCell-Module-V2（HTCC-AM01-V2）",
+  "upload": {
+    "maximum_ram_size": 16384,
+    "maximum_size": 131072,
+    "protocol": "serial",
+    "require_upload_port": true
+  },
+  "url": "https://heltec.org/project/htcc-am01-v2/",
+  "vendor": "Heltec"
+}
