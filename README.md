@@ -64,4 +64,4 @@ board_build.arduino.lorawan.debug_level = FREQ_AND_DIO
 ```
 
 More information about LoRaWAN configuration can be found in
-[the official CubeCell documentation](https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/index.html).
+[the official CubeCell documentation](https://docs.heltec.org/en/node/cubecell/index.html).

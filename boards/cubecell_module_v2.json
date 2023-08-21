@@ -15,7 +15,7 @@
   "frameworks": [
     "arduino"
   ],
-  "name": "Heltec CubeCell-Module-V2（HTCC-AM01-V2）",
+  "name": "Heltec CubeCell-Module-V2 (HTCC-AM01-V2)",
   "upload": {
     "maximum_ram_size": 16384,
     "maximum_size": 131072,
